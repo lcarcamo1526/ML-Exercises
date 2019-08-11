@@ -34,3 +34,9 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 ## Step #1 : Login and load Dataset into AZURE-ML
 
 Log in Azure-ML account then go to Dataset and click on new, browse your dataset file and upload our Excel or CSV file. We are going to use this dataset as a training model
+
+## Step #2 : Features
+
+We need choose our features and manipulate our data, so we're going to add a **Project Columns** component to choose the features to train our model. 
+The columns that we're going use are : ***Sex,Age,Class,Fare,Survived***
+
