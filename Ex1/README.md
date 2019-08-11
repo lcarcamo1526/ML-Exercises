@@ -29,3 +29,8 @@ Spouse = husband, wife (mistresses and fiancés were ignored)
 Parent = mother, father
 Child = daughter, son, stepdaughter, stepson
 Some children travelled only with a nanny, therefore parch=0 for them.
+
+
+## Step #1 : Login and load Dataset into AZURE-ML
+
+Log in Azure-ML account then go to Dataset and click on new, browse your dataset file and upload our Excel or CSV file. We are going to use this dataset as a training model
