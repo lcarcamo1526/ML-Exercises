@@ -39,5 +39,8 @@ By now you should know what the following terms are:
    1. Learning rate: The “step size” for loss improvement during gradient descent.
     
 
-# Run this file on Google Colab
+## Run this Jupyter file on the Cloud.
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-7ffw5lxy4RUNVo6_2BMB_cfczwahpPT)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lcarcamo1526/ML-Exercises/master?filepath=https%3A%2F%2Fgithub.com%2Flcarcamo1526%2FML-Exercises%2Fblob%2Fmaster%2FEx2%2FEx2.ipynb)
 
