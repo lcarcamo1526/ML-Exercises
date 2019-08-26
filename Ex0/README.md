@@ -1,4 +1,4 @@
-# Exercise 1 - Introduction to Azure ML
+# Exercise 0 - Introduction to Azure ML
 
 You own an ice cream business and you would like to create a model that could predict the daily revenue in dollars based on the outside air temperature (C). You decide that a Linear Regression model might be a good candidate to solve this problem.  
 Data set:
