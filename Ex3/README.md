@@ -1,4 +1,4 @@
-# Introduction to Deep Learning with Google Colab and tensorFlow
+# Ex3: Introduction to Deep Learning with Google Colab and tensorFlow
 
 We'll try to train our first neural network using only the basic foundations, the main goal here is make our neural network guess what formula we used to convert a temperature, where the approximate formula is:
 
