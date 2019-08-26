@@ -70,3 +70,9 @@ After did all previous step, we need check the performance of our model, for thi
 
 
 ![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex1/Img/6.gif)
+
+## Step #7: See results:
+
+Finally, after train and test our model, we're going to look how well is running our model, for this press right click on the model Evaluator component, and then press Visualize.
+
+
