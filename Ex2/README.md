@@ -26,17 +26,17 @@ Of course, it would be simple enough to create a conventional Python function th
 
 By now you should know what the following terms are:
 
-  1. Feature: The input(s) to our model
-  1. Examples: An input/output pair used for training
-  1. Model: The representation of your neural network
-  1. Labels: The output of the model
-  1. Layer: A collection of nodes connected together within a neural network.
-  1. Dense and Fully Connected (FC): Each node in one layer is connected to each node in the previous layer.
-  1. Weights and biases: The internal variables of model
-  1. Loss: The discrepancy between the desired output and the actual output
-  1. MSE: Mean squared error, a type of loss function that counts a small number of large discrepancies as worse than a large number of small ones.
-   1. Gradient Descent: An algorithm that changes the internal variables a bit at a time to gradually reduce the loss function.
-   1. Learning rate: The “step size” for loss improvement during gradient descent.
+  1. **Feature** : The input(s) to our model
+  1. **Examples**: An input/output pair used for training
+  1. **Model**: The representation of your neural network
+  1. **Labels**: The output of the model
+  1. **Layer**: A collection of nodes connected together within a neural network.
+  1. **Dense** and Fully Connected (FC): Each node in one layer is connected to each node in the previous layer.
+  1. **Weights** and biases: The internal variables of model
+  1. **Loss**: The discrepancy between the desired output and the actual output
+  1. **MSE**: Mean squared error, a type of loss function that counts a small number of large discrepancies as worse than a large number of small ones.
+   1. **Gradient Descent**: An algorithm that changes the internal variables a bit at a time to gradually reduce the loss function.
+   1. **Learning rate**: The “step size” for loss improvement during gradient descent.
     
 
 ## Run this Jupyter file on the Cloud.
