@@ -16,7 +16,7 @@ Of course, it would be simple enough to create a conventional Python function th
 * What is  ADAM?
 * What is a Loss function?
 
-![](https://video.udacity-data.com/topher/2019/March/5c7f0af9_tensorflow-l2f1/tensorflow-l2f1.png)
+![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex2/Img/1.png)
 
 
 By now you should know what the following terms are:
