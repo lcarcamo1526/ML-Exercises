@@ -32,20 +32,20 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 ## Step #1 : Load Dataset
 Log in Azure-ML account then go to Dataset and click on new, browse your dataset file and upload our Excel or CSV file. We are going to use this dataset as a training model
 
-![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex1/Img/1.gif)
+![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex2/Img/1.gif)
 
 ## Step #2 : Features
 
 We need choose our features and manipulate our data, so we're going to add a **Project Columns** component to choose the features to train our model. 
 The columns that we're going use are : ***Sex, Age, Class, Fare, Survived***
 
-![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex1/Img/2.gif)
+![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex2/Img/2.gif)
 
 ## Step #3 : Clean Data
 
 As in most cases we sometimes deal with data that are missing information, in this case we know that not all entries contain the age of the person, we will replace those entries with the median of the entire population.
 
-![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex1/Img/3.gif)
+![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex2/Img/3.gif)
 
 ## Step #4 : Split Data and Train Model
 
@@ -54,7 +54,7 @@ After confirm the relation between these variables we need split data for traini
 After split our data, we need train our model, in this case we're going use a Multi class Forest Algorithm
 In the left bar add Train model component and then add Multi class Forest
 
-![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex1/Img/4.gif)
+![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex2/Img/4.gif)
 
 
 ## Step #5 : Choose label data
@@ -62,18 +62,18 @@ In the left bar add Train model component and then add Multi class Forest
 Before train our model, we need choose our label data, this labeled data is going to be our prediction, in our case is going to be the ***Survived*** Column, also we need be sure about our training rate and our test rate.
 
 
-![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex1/Img/5.gif)
+![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex2/Img/5.gif)
 
 ## Step #6 : Score our model
 
 After did all previous step, we need check the performance of our model, for this step we are going to use the Score Model component and Evaluator component, this last one is going to compare using MSE to check How far is our prediction of the train values 
 
 
-![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex1/Img/6.gif)
+![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex2/Img/6.gif)
 
 ## Step #7: See results:
 
 Finally, after train and test our model, we're going to look how well is running our model, for this press right click on the model Evaluator component, and then press Visualize.
 
-![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex1/Img/7.png)
+![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex2/Img/7.png)
 
