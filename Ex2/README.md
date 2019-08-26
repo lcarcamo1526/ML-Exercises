@@ -2,9 +2,11 @@
 
 We'll try to train our first neural network using only the basic foundations, the main goal here is make our neural network guess what formula we used to convert a temperature, where the approximate formula is:
 
+![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex2/Img/1.png?style=centerme!) 
+
+
 Of course, it would be simple enough to create a conventional Python function that directly performs this calculation, but that wouldn't be machine learning.
 
-![](https://video.udacity-data.com/topher/2019/March/5c7f0af9_tensorflow-l2f1/tensorflow-l2f1.png)
 
 
 ## What are we going to learn?
@@ -16,7 +18,10 @@ Of course, it would be simple enough to create a conventional Python function th
 * What is  ADAM?
 * What is a Loss function?
 
-![](https://raw.githubusercontent.com/lcarcamo1526/ML-Exercises/master/Ex2/Img/1.png)
+
+
+![](https://video.udacity-data.com/topher/2019/March/5c7f0af9_tensorflow-l2f1/tensorflow-l2f1.png)
+
 
 
 By now you should know what the following terms are:
@@ -33,3 +38,6 @@ By now you should know what the following terms are:
    1. Gradient Descent: An algorithm that changes the internal variables a bit at a time to gradually reduce the loss function.
    1. Learning rate: The “step size” for loss improvement during gradient descent.
     
+
+# Run this file on Google Colab
+
