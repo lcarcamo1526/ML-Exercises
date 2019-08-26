@@ -11,7 +11,7 @@ En este repositorio se encontraran todos los materiales de las sesiones con su r
   1. [Introduction to Azure ML](https://github.com/lcarcamo1526/ML-Exercises/tree/master/Ex0)
   2. [Introduction to Machine Learning with Jupyter and Anaconda.](https://github.com/lcarcamo1526/ML-Exercises/tree/master/Ex1)
   3. [Kaggle Competition on Azure ML](https://github.com/lcarcamo1526/ML-Exercises/tree/master/Ex2)
-  4. [Introduction to Deep Learning andf Google Cloud](https://github.com/lcarcamo1526/ML-Exercises/tree/master/Ex3)
+  4. [Introduction to Deep Learning and Google Cloud](https://github.com/lcarcamo1526/ML-Exercises/tree/master/Ex3)
   5. [Introduction to Image Recognition using Tensorflow and Google Cloud.](https://github.com/lcarcamo1526/ML-Exercises/tree/master/Ex4)
 
 
