@@ -20,5 +20,5 @@ En este repositorio se encontraran todos los materiales de las sesiones con su r
 
 
 ## Authors
- * *Ibo Cerra*  [ibocerra] - (https://github.com/ibocerra)
+ * *Ibo Cerra*  - [ibocerra](https://github.com/ibocerra)
  * *Luis Carcamo*  - [lcarcamo1526](https://github.com/lcarcamo1526)
